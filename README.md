@@ -1,4 +1,4 @@
-# automatic-irrigation-system
+
 # Automatic Irrigation System (ESP32 + Arduino)
 
 ## Overview
